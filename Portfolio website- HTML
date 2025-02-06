@@ -1,1 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Cool Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
+  <!-- Header Section -->
+  <header>
+    <nav>
+      <div class="logo">My Portfolio</div>
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- About Section -->
+  <section id="about" class="about">
+    <div class="content">
+      <h1>Hello, I'm Contractor-x</h1>
+      <p>I'm a passionate web developer with a love for creating beautiful and functional websites.</p>
+    </div>
+  </section>
+
+  <!-- Projects Section -->
+  <section id="projects" class="projects">
+    <h2>My Projects</h2>
+    <div class="project-cards">
+      <div class="project-card">
+        <h3>Project 1</h3>
+        <p>A cool project I worked on</p>
+      </div>
+      <div class="project-card">
+        <h3>Project 2</h3>
+        <p>Another awesome project</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="contact">
+    <h2>Contact Me</h2>
+    <p>Email: johndoe@example.com</p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 Contractor-x All rights re
